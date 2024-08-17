@@ -2,6 +2,8 @@
 
 Steps to run the Application
 
-### 1 - `npm install`
+### 1 - `Download the project file`
 
-### 2 - `npm start`
+### 2 - `npm install`
+
+### 3 - `npm start`
