@@ -1,0 +1,28 @@
+[
+  {
+    "categoryName": "CSPM Executive Dashboard",
+    "widgets": [
+      {
+        "widgetName": "C-Widget 1",
+        "description": "This is the description for Widget 1."
+      },
+      {
+        "widgetName": "C-Widget 2",
+        "description": "This is the description for Widget 2."
+      }
+    ]
+  },
+  {
+    "categoryName": "CWPP Dashboard",
+    "widgets": [
+      {
+        "widgetName": "W-Widget 1",
+        "description": "This is the description for Widget 1."
+      },
+      {
+        "widgetName": "W-Widget 2",
+        "description": "This is the description for Widget 2."
+      }
+    ]
+  }
+]
